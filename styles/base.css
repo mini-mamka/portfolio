@@ -8,3 +8,31 @@ body {
 
     margin: 0 auto;
 }
+
+a,
+p {
+    color: #757575;
+}
+
+h1,
+h2,
+h3 {
+    color: #000;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.text-purple {
+    color: #8873ef;
+}
