@@ -20,18 +20,3 @@
     border-radius: 10px;
     color: #8873ef;
 }
-
-.intro-content__button {
-    width: fit-content;
-    background-color: #8873ef;
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    border-radius: 8px;
-
-    padding: 10px 20px;
-}
-
-.intro-content__button-text {
-    color: #fff;
-}

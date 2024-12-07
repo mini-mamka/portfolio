@@ -36,3 +36,18 @@ h3 {
 .text-purple {
     color: #8873ef;
 }
+
+.link-button {
+    width: fit-content;
+    background-color: #8873ef;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-radius: 8px;
+
+    padding: 10px 20px;
+}
+
+.link-button-text {
+    color: #fff;
+}
